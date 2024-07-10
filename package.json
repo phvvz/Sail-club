@@ -1,0 +1,21 @@
+{
+  "name": "sail-club",
+  "version": "1.0.0",
+  "description": "Project yacht club 'Under the Sail' (HTML Academy's educational project - a landing page)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teihden/sail-club"
+  },
+  "main": "",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.9.4",
+    "linthtml-config-htmlacademy": "^1.0.3",
+    "stylelint": "^14.2.0",
+    "stylelint-config-htmlacademy": "^1.1.4"
+  },
+  "author": "Teihden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teihden/sail-club/issues"
+  }
+}
